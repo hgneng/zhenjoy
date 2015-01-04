@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>http://www.zhenjoy.com/deploy/zhenjoy_large_icon.png</string>
 				</dict>
@@ -25,7 +25,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>http://www.zhenjoy.com/deploy/zhenjoy_small_icon.png</string>
 				</dict>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.greedc.zhenjoy</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
